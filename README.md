@@ -1,1 +1,1 @@
-#Hey there this is the repo for mostly asked linked linked questions and to brush up your concepts before interviews :)
+#Hey there this is the repo for mostly asked linked list questions and to brush up your concepts before interviews :)
