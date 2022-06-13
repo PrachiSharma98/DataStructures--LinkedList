@@ -8,7 +8,7 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  
- Using two algos one for reversing mid of ll and other to find mid of ll and then comparing the data of orig ll with the latter reversed part,if equals then palindrome.
+ Using two algos one for reversing mid of ll and other to find mid of ll and then comparing the data of orig ll with the latter reversed part,if equals then palindrome linked list.
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
